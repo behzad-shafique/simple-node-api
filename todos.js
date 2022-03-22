@@ -1,7 +1,7 @@
 module.exports = [
   {
     id: 1,
-    task: "Review-Apps-1 fix one"
+    task: "Review-Apps-1 fix one new"
   },
   {
     id: 2,
